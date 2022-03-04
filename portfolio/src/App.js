@@ -6,6 +6,7 @@ function App() {
         <>
             <h1>Hej</h1>
             <p>Hej igen</p>
+            <p>Hej igen igen</p>
         </>
     );
 }
