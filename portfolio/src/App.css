@@ -24,6 +24,7 @@ body {
     top: 0;
     width: 100%;
     background: white;
+    display: inline-block;
   }
   
   nav ul {
@@ -53,7 +54,7 @@ body {
   #page-body {
     max-width: 700px;
     margin: auto;
-    padding-top: 64px;
+    padding-top: 72px;
   }
   
   .article-list-item {
@@ -99,4 +100,8 @@ body {
   .comment {
     border-bottom: 2px solid black;
     padding: 16px;
+  }
+
+  .left {
+    float: left;
   }
