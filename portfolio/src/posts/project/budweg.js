@@ -4,10 +4,10 @@ function Budweg() {
     return (
         <>
             <h1>
-                Bravida
+                Budweg
             </h1>
             <p>
-                Det er et project jeg lavede på 1.semester som skulle hjælpe med at forbedre arbejdesprocessen og erstatte et Excel ark
+                Det er et project jeg lavede på 2.semester der skulle hjælpe budweg med at få noget feedback fra deres kunder
             </p>
         </>
     );

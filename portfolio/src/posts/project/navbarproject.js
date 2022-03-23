@@ -18,7 +18,7 @@ function Navbarproject() {
                     <Link to={"/projekter/portfolio"}>Portfolio</Link>
                 </li>
                 <li>
-                    <Link to={"/projekter/trævarefabrikernes"}>Trævarefabrikernes</Link>
+                    <Link to={"/projekter/traevarefabrikernes"}>Trævarefabrikernes</Link>
                 </li>
             </ul>
         </div>

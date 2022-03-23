@@ -1,11 +1,11 @@
 import React from "react";
 
-function Week1() {
+function Week3() {
     return(
         <h1>
-            Uge 1
+            Uge 3
         </h1>
     );
 }
 
-export default Week1;
+export default Week3;
