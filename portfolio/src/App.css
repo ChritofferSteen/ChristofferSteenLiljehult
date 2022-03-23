@@ -51,9 +51,12 @@ body {
     color: white;
   }
   
-  #page-body {
-    max-width: 700px;
+  .page-body-text{
+    max-width: 800px; 
     margin: auto;
+  }
+
+  #page-body {
     padding-top: 72px;
   }
   
@@ -104,4 +107,33 @@ body {
 
   .left {
     float: left;
+  }
+
+  .navbar{
+    float: left;
+    padding: 10px;
+  }
+
+  .navbar a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 16px 32px;
+  }
+
+  .navbar a:hover {
+    background: black;
+    color: white;
+  }
+
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+
+    padding-top: 16px;
+    padding-bottom: 16px;
   }

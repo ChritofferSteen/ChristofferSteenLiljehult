@@ -1,13 +1,29 @@
 import React from "react";
+import { Outlet } from "react-router-dom"
+import Navbarproject from "../posts/project/navbarproject";
 
-function ProjectPage() {
+export function ProjectPage() {
     return (
         <>
-            <h1>
-                Her er noget om mine projekter
-            </h1>
+            <Navbarproject />
+            <div className="page-body-text">
+                <Outlet />
+            </div>
         </>
     );
 }
 
-export default ProjectPage;
+export function ProjectPageText() {
+    return (
+        <>
+            <h1>
+                Projekter
+            </h1>
+            <p>
+                Her er der beskrivelser af de projekter jeg har lavet gennem tiden
+            </p>
+        </>
+    );
+}
+
+
