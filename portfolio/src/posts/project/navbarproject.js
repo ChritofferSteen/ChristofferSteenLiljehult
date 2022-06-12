@@ -1,25 +1,18 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Projects from "./Projects.json";
 
 function Navbarproject() {
     return (
         <div className="navbar">
             <ul>
-                <li>
-                    <Link to={"/projekter/bravida"}>Bravida</Link>
-                </li>
-                <li>
-                    <Link to={"/projekter/surfup"}>Surfup</Link>
-                </li>
-                <li>
-                    <Link to={"/projekter/budweg"}>Budweg</Link>
-                </li>
-                <li>
-                    <Link to={"/projekter/portfolio"}>Portfolio</Link>
-                </li>
-                <li>
-                    <Link to={"/projekter/traevarefabrikernes"}>Trævarefabrikernes</Link>
-                </li>
+                {Projects.projects.map(x => {
+                    return(
+                        <li>
+                            <Link to={`/projekter/${x.title}`}>{x.title}</Link>
+                        </li>
+                    )
+                })}
             </ul>
         </div>
     );

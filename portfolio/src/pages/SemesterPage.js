@@ -1,15 +1,52 @@
 import React from "react";
-import { Outlet } from "react-router-dom"
+import { Outlet, useParams } from "react-router-dom"
 import Navbarblog from "../posts/blog/navbarblog";
+import Weeks from "../posts/blog/Weeks.json"
 
 export function SemesterPage() {
+
+    let { week } = useParams();
+
     return (
-        <>
+        <div>
             <Navbarblog />
             <div className="page-body-text">
-                <Outlet />
+                {week === "start" ? <SemesterPageText /> :
+                    <>
+                        {Weeks.weeks.map(x => {
+                            if (x.number === week)
+                                return (
+                                    <div>
+                                        <h1>
+                                            Uge {x.number}
+                                        </h1>
+                                        <h3>
+                                            {x.date}
+                                        </h3>
+                                        {x.context.map(x => {
+                                            if (x.text === "Link") {
+                                                return (
+                                                    <div>
+                                                        <a href={x.link}>Linkedin kursus</a> <br />
+                                                    </div>
+                                                )
+                                            }
+                                            else {
+                                                return (
+                                                    <p>
+                                                        {x.text}
+                                                    </p>
+                                                )
+                                            }
+                                        })}
+                                    </div>
+                                )
+                        })}
+                    </>
+
+                }
             </div>
-        </>
+        </div>
     );
 }
 

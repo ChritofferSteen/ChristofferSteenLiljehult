@@ -1,25 +1,18 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Weeks from "./Weeks.json"
 
 function Navbarblog() {
     return (
         <div className="navbar">
             <ul>
-                <li>
-                    <Link to={"/4.semester/uge1"}>Uge 1</Link>
-                </li>
-                <li>
-                    <Link to={"/4.semester/uge2"}>Uge 2</Link>
-                </li>
-                <li>
-                    <Link to={"/4.semester/uge3"}>Uge 3</Link>
-                </li>
-                <li>
-                    <Link to={"/4.semester/uge4"}>Uge 4</Link>
-                </li>
-                <li>
-                    <Link to={"/4.semester/uge5"}>Uge 5</Link>
-                </li>
+                {Weeks.weeks.map(x => {
+                    return (
+                        <li>
+                            <Link to={`/4.Semester/${x.number}`}>Uge {x.number}: {x.date}</Link>
+                        </li>
+                    )
+                })}
             </ul>
         </div>
     );

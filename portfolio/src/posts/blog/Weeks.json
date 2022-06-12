@@ -1,0 +1,154 @@
+{
+    "weeks": [
+        {
+            "number": "1",
+            "date": "31 jan - 4 feb",
+            "context": [
+                {
+                    "text": "Det første som vi har lavet på 4. semester er at begynde at lægge grundlag for det kommende projektarbejde, ved at lære hinanden lidt at kende på teamet samt snakke om hvad vi hver i sær tænker i forhold til hvordan vi skal bygge projektet op."
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "date": "7 feb - 11 feb",
+            "context": [
+                {
+                    "text": "Lå jeg syg med corona så fik ikke lavet noget"
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "date": "14 feb - 18 feb",
+            "context": [
+                {
+                    "text": "Jeg lå stadig ramt af corona så fik kun lavet en lille smule den uge"
+                },
+                {
+                    "text": "Jeg fik fundet et par kursuer på Linkedin learning. De ene var et i forhold til at udvirkele min første hjemmeside med react. Det andet var et omkring forskellige typer databaser og hvad de kunne"
+                }
+            ]
+        },
+        {
+            "number": "4",
+            "date": "21 feb - 25 feb",
+            "context": [
+                {
+                    "text": "Link",
+                    "link": "https://www.linkedin.com/learning/react-js-essential-training-2020/building-modern-user-interfaces-with-react?autoplay=true&u=57075649"
+                },
+                {
+                    "text": "Det her er det kursus jeg brugte for at lære react"
+                },
+                {
+                    "text": "Jeg nåede at komme igennem hele kursuset denne uge, hvor jeg så havde fået en god forstålese for hvordan man kunne lave en hjemmeside med react. Det gav mig også et godt sted hvor jeg kunne komme hen og kigge hvis jeg skulle genopfrikse syntaxen på noget."
+                }
+            ]
+        },
+        {
+            "number": "5",
+            "date": "28 feb - 4 mar",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "6",
+            "date": "7 mar - 11 mar",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "7",
+            "date": "14 mar - 18 mar",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "8",
+            "date": "21 mar - 25 mar",
+            "context": []
+        },
+        {
+            "number": "9",
+            "date": "28 mar - 1 apr",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "10",
+            "date": "4 apr - 8 apr",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "11",
+            "date": "11 apr - 15 apr",
+            "context": [
+                {
+                    "text": "motiavtion og ikke når mit første mål med databaser"
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "date": "18 apr - 22 apr",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "13",
+            "date": "25 apr - 29 apr",
+            "context": [
+                {
+                    "text": "her skal jeg skrive om cors"
+                }
+            ]
+        },
+        {
+            "number": "14",
+            "date": "2 maj - 6 maj",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "15",
+            "date": "9 maj - 13 maj",
+            "context": [
+                {
+                    "text": "At hente data i en funtion og ikke i en class i react og hvorfor jeg skulle det samt min løsning"
+                }
+            ]
+        },
+        {
+            "number": "16",
+            "date": "16 maj - 20 maj",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        },
+        {
+            "number": "17",
+            "date": "23 maj - 27 maj",
+            "context": [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        }
+    ]
+}

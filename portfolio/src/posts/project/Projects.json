@@ -1,0 +1,36 @@
+{
+    "projects": [
+        {
+            "title": "Bravida",
+            "description": [
+                "Det er et project jeg lavede på 1.semester som skulle hjælpe med at forbedre arbejdesprocessen og erstatte et Excel ark"
+            ]
+        },
+        {
+            "title": "Budweg",
+            "description": [
+                "Det er et project jeg lavede på 2.semester der skulle hjælpe budweg med at få noget feedback fra deres kunder"
+            ]
+        },
+        {
+            "title": "Portfolio",
+            "description": [
+                "Det er den her portfolio jeg laver i React.",
+                "Jeg bruger så den her portfolio til at prøve ting at jeg lære om i React."
+            ]
+        },
+        {
+            "title": "Surfup",
+            "description": [
+                "Surfup er et project jeg lavede på 3.semester, hvor surfer skulle kunne se vejrudsigten, leje/udleje udstyr, og have fellesskab på."
+            ]
+        },
+        {
+            "title": "Trævarefabrikernes udsalg",
+            "description" : [
+                "Det er et projekt, som var mit eksamens project på 2.semester.",
+                "Der gik ud på at de havde et excel ark som var meget uoverskuelig, som de skulle se om de havde vare hjemme på hovedelaget. De ville så gerne have et program der kunne give dem meget overskuelighed med søgning og fliteringer."
+            ]
+        }
+    ]
+}

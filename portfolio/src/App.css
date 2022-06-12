@@ -52,8 +52,9 @@ body {
   }
   
   .page-body-text{
-    max-width: 800px; 
-    margin: auto;
+    max-width: 900px; 
+    margin-left: 20px;
+    float: left;
   }
 
   #page-body {

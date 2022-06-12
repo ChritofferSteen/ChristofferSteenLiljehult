@@ -9,10 +9,10 @@ function NavBar() {
                     <Link to={"/"}>Hjem</Link>
                 </li>
                 <li>
-                    <Link to={"/projekter"}>Projekter</Link>
+                    <Link to={"/projekter/start"}>Projekter</Link>
                 </li>
                 <li>
-                    <Link to={"/4.Semester"}>4.Semester</Link>
+                    <Link to={"/4.Semester/start"}>4.Semester</Link>
                 </li>
                 <li>
                     <Link to={"/omkring"}>Om mig</Link>
